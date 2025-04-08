@@ -11,22 +11,27 @@ Développeuse Fullstack PHP/JavaScript passionnée, j’aime concevoir des solut
 
 ## 📌 Projets
 
-### 🔹 PHP & Symfony  
-🔸 **[SpaceEchoes](https://github.com/MartaSanzFlores/SpaceEchoes)** 
+### PHP & Symfony    
 
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ Une application permettant la **gestion de bases de données et la création d'API/back-office** avec **Symfony & MySQL**.  
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 **Stack :** PHP 7, Symfony, Twig, Bootstrap, MySQL  
+🔸 **[Team Task Manager Project](https://github.com/MartaSanzFlores/Team-Task-Manager-Project)**  
 
-🔸 **[Team Task Manager](https://github.com/MartaSanzFlores/Team-Task-Manager-Project)**  
+&nbsp;&nbsp;&nbsp;➡️ A **team task manager** allowing users to create projects, assign tasks, and manage team members. Users can also edit their profile and track task progress. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ Un **gestionnaire de tâches en équipe** avec attribution des membres et suivi des projets.  
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 **Stack :** Symfony, Doctrine ORM, Twig, MySQL, Docker  
+&nbsp;&nbsp;&nbsp;🛠 **Stack:** PHP 8, Symfony 7, Doctrine ORM, Twig, MySQL, Docker  
 
-### 🔹 Node.js & React  
-🔸 **[Real-time Messaging](https://github.com/MartaSanzFlores/Test-React-Nodejs)**
+🔸 **[SpaceEchoes Backend](https://github.com/MartaSanzFlores/SpaceEchoes)**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ Une **messagerie instantanée** avec WebSockets, gestion des utilisateurs et API sécurisée.  
-&nbsp;&nbsp;&nbsp;&nbsp;🛠 **Stack :** Node.js, React, PostgreSQL, MongoDB, Docker  
+&nbsp;&nbsp;&nbsp;➡️ A **backend API and backoffice for astronomy exploration** with article management, image gallery, comments, and moderation via an admin panel.  
+
+&nbsp;&nbsp;&nbsp;🛠 **Stack:** PHP 7.4, Symfony 5, Doctrine ORM, Twig, JWT, MySQL  
+
+### Node.js & React  
+
+🔸 **[Real-time Messaging](https://github.com/MartaSanzFlores/Test-React-Nodejs)**  
+
+&nbsp;&nbsp;&nbsp;➡️ A **real-time messaging** application with WebSockets, user management, and a secure API.  
+
+&nbsp;&nbsp;&nbsp;🛠 **Stack:** Node.js, React, PostgreSQL, MongoDB, Docker   
 
 ## 📊 Statistiques GitHub
 
