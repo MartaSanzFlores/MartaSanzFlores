@@ -1,6 +1,6 @@
-# Bonjour, je suis Marta, Développeuse Fullstack PHP/JS !
+# Bonjour, je suis Marta, Développeuse Fullstack !
 
-Développeuse Fullstack PHP/JavaScript passionnée, j’aime concevoir des solutions performantes et évolutives, en appliquant les bonnes pratiques et les méthodologies agiles. Grâce à mon expérience en traitement de données et en développement d’applications web, je crée des outils robustes et adaptés aux besoins réels des utilisateurs.
+Développeuse Fullstack passionnée, j’aime concevoir des solutions performantes et évolutives, en appliquant les bonnes pratiques et les méthodologies agiles. Grâce à mon expérience en traitement de données et en développement d’applications web, je crée des outils robustes et adaptés aux besoins réels des utilisateurs.
 
 ## À Propos de Moi
 
@@ -32,6 +32,14 @@ Développeuse Fullstack PHP/JavaScript passionnée, j’aime concevoir des solut
 &nbsp;&nbsp;&nbsp;➡️ A **real-time messaging** application with WebSockets, user management, and a secure API.  
 
 &nbsp;&nbsp;&nbsp;🛠 **Stack:** Node.js, React, PostgreSQL, MongoDB, Docker   
+
+### FastAPI & Vue
+
+🔸 [Patient Appointment Manager](https://github.com/MartaSanzFlores/fastapi-patient-app.git)**
+
+&nbsp;&nbsp;&nbsp;➡️ A medical appointment management API with patient records, appointment scheduling, and real-time validation.
+
+&nbsp;&nbsp;&nbsp;🛠 Stack: FastAPI, Vue 3 (Composition API), MySQL, Docker, SQLModel, Pytest
 
 ## 📊 Statistiques GitHub
 
