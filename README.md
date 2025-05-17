@@ -35,7 +35,7 @@ Développeuse Fullstack passionnée, j’aime concevoir des solutions performant
 
 ### FastAPI & Vue
 
-🔸 [Patient Appointment Manager](https://github.com/MartaSanzFlores/fastapi-patient-app.git)**
+🔸 **[Patient Appointment Manager](https://github.com/MartaSanzFlores/fastapi-patient-app.git)**
 
 &nbsp;&nbsp;&nbsp;➡️ A medical appointment management API with patient records, appointment scheduling, and real-time validation.
 
